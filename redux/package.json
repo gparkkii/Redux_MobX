@@ -1,0 +1,14 @@
+{
+  "name": "redux",
+  "version": "1.0.0",
+  "description": "let's learn about Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ji Yeon Park",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
+}
